@@ -44,5 +44,6 @@ Highlander:
 * Add:Airtrader Gliniska
 * Add: ExpansionATM_3
 * Fix: Clothing_Accessories
+* Fix+Add: Special Trader
 
 
