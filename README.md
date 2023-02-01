@@ -41,8 +41,8 @@ Merge with 'mpmissions/expansion.enoch/expansion/settings/MarketSettings.json' o
 <img src="https://www.apocz.com/content/images/DayZ/ss2.jpg" style="width: 80; margin: auto;" />
 
 Highlander:
-*Add:Airtrader Gliniska
-*Add: ExpansionATM_3
-*Fix: Clothing_Accessories
+* Add:Airtrader Gliniska
+* Add: ExpansionATM_3
+* Fix: Clothing_Accessories
 
 
