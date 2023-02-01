@@ -1,5 +1,4 @@
 # DayZ-Expansion-Enoch-Trader-Maps
-<img src="https://www.apocz.com/content/images/DayZ/ss1.jpg" style="width: 80; margin: auto;" />
 Eight DayZ-Expansion compatible Trader areas for DayZ Livonia/Enoch map.
 
 * Topolin
@@ -34,11 +33,7 @@ Merge with 'mpmissions/expansion.enoch/expansion/settings/MapSettings.json' on y
 _'MarketSetting.json'_ (Contains Land Spawn Positions for vehicel traders)<br/>
 Merge with 'mpmissions/expansion.enoch/expansion/settings/MarketSettings.json' on your server.<br />
 <br />
-<img src="https://www.apocz.com/content/images/DayZ/ss5.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss0.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss3.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss4.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss2.jpg" style="width: 80; margin: auto;" />
+
 
 Highlander:
 * Add:Airtrader Gliniska
